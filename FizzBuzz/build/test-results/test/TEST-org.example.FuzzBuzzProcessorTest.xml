@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="org.example.FuzzBuzzProcessorTest" tests="4" skipped="0" failures="0" errors="0" timestamp="2023-04-17T16:22:19" hostname="MacBook-Air-Roma.local" time="0.012">
+  <properties/>
+  <testcase name="FizzBuzzThreeNumbers()" classname="org.example.FuzzBuzzProcessorTest" time="0.002"/>
+  <testcase name="FizzBuzzFiveNumbers()" classname="org.example.FuzzBuzzProcessorTest" time="0.001"/>
+  <testcase name="FizzBuzzNormalNumbers()" classname="org.example.FuzzBuzzProcessorTest" time="0.004"/>
+  <testcase name="FizzBuzzThreeAndFiveNumbers()" classname="org.example.FuzzBuzzProcessorTest" time="0.001"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
